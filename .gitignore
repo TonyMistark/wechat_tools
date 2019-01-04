@@ -1,0 +1,6 @@
+*.pyc
+
+# pycharm files
+/.idea/
+
+/static/
